@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.whereveryougo.cloth">
+    <item
+        android:id="@+id/boy"
+        android:icon="@drawable/cloth"
+
+        android:orderInCategory="100"
+        android:title="boy" />
+    <item
+        android:id="@+id/girl"
+        android:icon="@drawable/indoor"
+        android:orderInCategory="100"
+        android:title="girl" />
+
+</menu>

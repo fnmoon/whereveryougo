@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">whereveryougo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_weather">Weather</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="large_text">
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="title_activity_cloth">cloth</string>
+    <string name="title_activity_place">place</string>
+    <string name="title_activity_sport">sport</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_girlcloth">girlcloth</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+</resources>

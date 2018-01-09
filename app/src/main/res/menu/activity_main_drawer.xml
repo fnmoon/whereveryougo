@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/weather"
+            android:icon="@drawable/weather"
+            android:title="天气如何" />
+        <item
+            android:id="@+id/cloth"
+            android:icon="@drawable/cloth"
+            android:title="穿啥好呢" />
+        <item
+            android:id="@+id/outdoor"
+            android:icon="@drawable/car"
+            android:title="出哪玩呢" />
+        <item
+            android:id="@+id/whereamI"
+            android:icon="@drawable/position"
+            android:title="我在哪呢" />
+        <item
+            android:id="@+id/route"
+            android:icon="@drawable/route"
+            android:title="说走就走" />
+
+    </group>
+
+
+</menu>
